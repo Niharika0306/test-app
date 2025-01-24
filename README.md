@@ -1,1 +1,1 @@
-Creating this app to test Konflux
+Using this app to test Konflux
